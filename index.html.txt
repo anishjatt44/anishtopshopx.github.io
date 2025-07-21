@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ANISHTOPSHOPX</title>
+</head>
+<body>
+  <h1>Welcome to ANISHTOPSHOPX</h1>
+  <p>Click below to view our products:</p>
+  <a href="products.html">View Products</a>
+</body>
+</html>
